@@ -1,6 +1,14 @@
 # story_ui
+源视频地址：https://www.youtube.com/watch?v=5KbiU-93-yU
+Flutter 电子书UI DEMO 练习，原视频为Youtube，视频提供源码https://github.com/devefy/Flutter-Story-App-UI/
 
-A flutter story app ui demo
+### 效果图
+![预览](https://i.imgur.com/Wy71zbe.png)
+
+
+***
+
+
 
 ## Getting Started
 
